@@ -15,7 +15,16 @@ background-repeat: no-repeat;
 }
 section {height: 500px;
 
-}
+}.link-button{
+   text-decoration: none;
+   padding: 7px 20px 7px 20px;
+   border-radius: 7px;
+   color:white;
+   background-color: rgb(255, 60, 0);}
+   .dream-area{background-image: url(" dream-bg.png");
+      background-repeat: no-repeat;
+ background-position:right center;
+   }
 
 
 
